@@ -1,8 +1,8 @@
-## 📌 Tech Stack
-#### Language: Javascript(ES6+)<br>
-#### Front-end: React, Redux<br>
-#### Back-end: Node.js, Express, MySQL, Sequelize<br>
-#### Others: AWS(S3/EC2/RDS/Route53/CloudFront)<br>
+# 📌 Tech Stack
+### Language: Javascript(ES6+)<br>
+### Front-end: React, Redux<br>
+### Back-end: Node.js, Express, MySQL, Sequelize<br>
+### Others: AWS(S3/EC2/RDS/Route53/CloudFront)<br>
 
 ----
 
