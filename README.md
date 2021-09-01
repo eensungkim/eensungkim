@@ -1,4 +1,10 @@
-### Hi there 👋
+### 📌 Tech Stack
+Language: Javascript(ES6+)
+Front-end: React, Redux
+Back-end: Node.js, Express, MySQL, Sequelize
+Others: AWS(S3/EC2/RDS/Route53/CloudFront)
+
+currently interested in TypeScript
 
 <!--
 **eensungkim/eensungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
