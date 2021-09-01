@@ -5,6 +5,9 @@ Back-end: Node.js, Express, MySQL, Sequelize<br>
 Others: AWS(S3/EC2/RDS/Route53/CloudFront)<br>
 <br>
 currently interested in TypeScript
+<br>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=eensungkim&theme=highcontrast&show_icons=true&count_private=true)
 
 <!--
 **eensungkim/eensungkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
